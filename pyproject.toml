@@ -8,6 +8,8 @@ packages = [{include = "fastapi_boilerplate"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+fastapi = "^0.101.1"
+sqlalchemy = "^2.0.20"
 
 
 [build-system]
